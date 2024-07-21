@@ -10,9 +10,9 @@
 
     <packaging>pom</packaging>
     <modules>
-        <module>live-user-interface</module>
-        <module>live-user-provider</module>
-        <module>live-api</module>
+        <module>qiyu-live-user-interface</module>
+        <module>qiyu-live-user-provider</module>
+        <module>qiyu-live-api</module>
     </modules>
 
     <properties>
